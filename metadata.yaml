@@ -5,6 +5,9 @@ contributor:
     agent_name: Quinn, Peter
     gutenberg_agent_id: '54096'
     url: http://www.gutenberg.org/2009/agents/54096
+covers:
+- cover_type: archival
+  image_path: 67062-h/images/cover.jpg
 creator:
   author:
     agent_name: Randolph, Vance
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53764
     wikipedia: https://en.wikipedia.org/wiki/Vance_Randolph
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67062#Life-Among-the-Butterflies
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67062'
